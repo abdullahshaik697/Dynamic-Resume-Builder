@@ -1,2 +1,26 @@
 heading DRB
-
+main container(it is a box)
+        ->h1.personal info
+        ->div.personal info
+                ->fname
+                ->lname
+                ->contact
+                ->email
+        ->h1.profile
+        ->div.profile
+                ->textArea 
+        ->h1.education info
+        ->div.education info
+                ->matric from institute
+                ->matric passing year
+                ->inter from institute
+                ->inter passing year
+                ->graduation from institute
+                ->graduation passing year
+        ->h1.skills
+        ->div.skills info
+                ->Skills 
+        ->h1.certificates
+        ->div.certificates info
+                ->certificates 
+           
